@@ -1,3 +1,12 @@
+# hanlian17.github.io
+
+Created in 2018.12.24, a blog to record my ideas and moods.
+
+Building this blog with the help of [jianshu](https://www.jianshu.com/p/e68fba58f75c), forked from [qiuboying's repository](https://github.com/qiubaiying/qiubaiying.github.io).
+
+The resource is saved in d:/test/github/hanlian17.github.io/
+
+
 
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)

@@ -13,7 +13,7 @@ tags:
 Hey, there is an interesting article about date science I read online, may you like it.
 
 ## Introduction
-what exactly can we do with it?
+What exactly can we do with date science?
 
 In this article, we'll look at how we can apply data science thinking to different problems. We'll explore several common applications, including:
 

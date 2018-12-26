@@ -11,8 +11,8 @@ tags:
 
 - pwd		= printing working directory
 - ls		= lists  
-	-a&emsp包含以.开头的（隐藏文件夹+本及目录+上级目录）  
-	-A&emsp包含隐藏文件夹  
+	-a		包含以.开头的（隐藏文件夹+本及目录+上级目录）  
+	-A		包含隐藏文件夹  
 	-l		长格式  
 	-t		修改时间   
 	-alt		包含.开头、长格式、修改时间  

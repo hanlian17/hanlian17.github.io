@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      Learn command line
 subtitle:   Note when learning command line

@@ -10,7 +10,7 @@ tags:
 ---
 
 - pwd		= printing working directory
-- ls		= lists								
+- ls		= lists
 	-a		包含以.开头的（隐藏文件夹+本及目录+上级目录）
 	-A		包含隐藏文件夹
 	-l		长格式
@@ -19,8 +19,6 @@ tags:
 - cd		= change directory					cd ../../..    上三级
 - mkdir	= make directory
 - touch		创建新文件
-
-
 - cp		= copy
 	file to directory
 	files to directory
@@ -40,8 +38,8 @@ tags:
 	echo "Hello"			显示文字
 	echo "Hello">hello.txt	to a file
 - cat		= concatenate			输出内容
-	cat hello.txt>test.txt		用hello.txt的内容覆盖test.txt
-	cat hello.txt>>test.txt	保留hello.txt中的内容
+	cat hello.txt > test.txt		用hello.txt的内容覆盖test.txt
+	cat hello.txt >> test.txt	保留hello.txt中的内容
 	cat < hello.txt			从hello.txt中输出
 - wc		= word count		显示新行数、单词数、字节数、文件名
 	行数、字数、字节数或字符数。
@@ -62,7 +60,7 @@ tags:
 	|	command standard output  ---standard input--->  command
 
 - 缩写
-	stdin			standard input
+	stdin		standard input
 	stdou		standard output
 	stderr		standard error
 	txt			textfile
